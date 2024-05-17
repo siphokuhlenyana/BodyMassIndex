@@ -1,0 +1,26 @@
+body{
+    background-color: brown;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h1{
+ background-color: aqua;
+ text-align: center;
+
+}
+.container{
+    border: 10px solid black;
+}
+
+button{
+    margin-left: 300px;
+    font-size: large;
+    font-weight: 700;
+}
+input{
+    background-color: cadetblue;
+    margin-left: 7px;
+}
+#bmi{
+    margin-left: 250px;
+}
